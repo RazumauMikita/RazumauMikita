@@ -2,6 +2,7 @@
 ## My CV
 [https://github.com/RazumauMikita/rsschool-cv/blob/gh-pages/cv.md](https://github.com/RazumauMikita/rsschool-cv/blob/gh-pages/cv.md)
 ## My projects
+- [Tere](https://tere-landing.netlify.app/)
 - [Sketch](https://sketch-landing.netlify.app/)
 - [Momentum](https://razumaumikita-momentum.netlify.app/)
 - [Minesweeper](https://razumau-mikita-minesweeper.netlify.app/)
